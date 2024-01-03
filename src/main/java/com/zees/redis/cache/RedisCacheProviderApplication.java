@@ -10,4 +10,5 @@ public class RedisCacheProviderApplication {
 		SpringApplication.run(RedisCacheProviderApplication.class, args);
 	}
 
+
 }
