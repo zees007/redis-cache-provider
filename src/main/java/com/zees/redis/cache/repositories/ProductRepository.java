@@ -8,7 +8,5 @@ import java.util.List;
 
 @Repository
 public interface ProductRepository extends CrudRepository<Product, Long> {
-
     Product findFirstById(Long id);
-
 }
