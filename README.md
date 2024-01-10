@@ -1,4 +1,6 @@
-Give Your Spring Boot App a Turbo Boost with Redis Cache Provider — Because even code needs a little caffeine kick!
+Integrate Redis Cache Provider in your spring boot application
+
+Give Your Spring Boot App a Turbo Boost with Redis Cache Provider — Because even code needs a little caffeine kick! 🔥
 
 Follow my blog to implement it step by step:
 https://medium.com/javarevisited/give-your-spring-boot-app-a-turbo-boost-with-redis-cache-provider-because-even-code-needs-a-a2ce7b7bfdb7
