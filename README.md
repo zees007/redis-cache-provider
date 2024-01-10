@@ -7,7 +7,9 @@ https://medium.com/javarevisited/give-your-spring-boot-app-a-turbo-boost-with-re
 Overview of Redis at a Glance:
 
 👉 A distributed, in-memory data store
+
 👉 Spring Boot has good integration with Redis for distributed caching
+
 👉Suitable for: Distributed caching, caching in microservices, real-time data updates, Message Broker (MQ)
 
 Here’s a simplified explanation of how caching typically works:
